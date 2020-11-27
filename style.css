@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
+  position: relative;
+  background-color: #242f3f;
+}
+
+h2 {
+  color: white;
+  font-size: 2rem;
+  text-align: justify;
+  right: -5%;
+  position: relative;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: -1.2%;
+}
+
+header {
+  background: #55d6aa;
+  position: relative;
+  margin-right: -120%;
+  margin: 2px;
+  padding: 5px;
+}
+
+header::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+nav {
+  float: right;
+  position: relative;
+}
+
+nav ul {
+  margin: 50;
+  padding: 0;
+  list-style: none;
+
+  position: relative;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 40px;
+
+  position: relative;
+}
+
+nav a {
+  color: #444;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1rem;
+  position: relative;
+}
+
+nav a:hover {
+  color: white;
+}
+
+nav a::before {
+  content: "";
+  display: block;
+  height: 2px;
+
+  position: absolute;
+  top: 0;
+  width: 100%;
+
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
+
+p {
+  font-size: 30px;
+  text-align: justify;
+  right: -5%;
+  position: relative;
+  color: white;
+}
+
+div {
+  transition: width 2s, height 4s;
+}
+
+img {
+  margin-right: -30%;
+  text-align: justify;
+  right: 95%;
+  margin-top: 16%;
+  position: fixed;
+}
+
+h3 {
+  color: white;
+  font-size: 3rem;
+  text-align: justify;
+  right: -40%;
+  margin-top: -5%;
+  position: relative;
+}
+
+section {
+  position: fixed;
+}
+
+h3 {
+  color: white;
+  font-size: 3rem;
+  text-align: justify;
+  right: 20%;
+  margin-top: 20%;
+  position: relative;
+}
+
+p2 {
+  color: white;
+  font-size: 2rem;
+  text-align: justify;
+  right: -5%;
+  margin-top: 20%;
+  position: relative;
+}
