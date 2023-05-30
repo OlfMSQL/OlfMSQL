@@ -6,9 +6,9 @@
 
 Programming Languages I worked with:
 
-<img src="https://isocpp.org/assets/images/cpp_logo.png" width="50" height="150" /> <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="150" height="150" />
-<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="50" height="150" />
-<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="50" height="150" />
+<img src="https://isocpp.org/assets/images/cpp_logo.png" width="150" height="150" /> <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="150" height="150" />
+<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="150" height="150" />
+<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="150" height="150" />
 
 <!---
 OlfMSQL/OlfMSQL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
