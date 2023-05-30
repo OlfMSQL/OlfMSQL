@@ -7,6 +7,8 @@
 Programming Languages:
 
 ![My Remote Image](https://isocpp.org/assets/images/cpp_logo.png)
+![My Remote Image](https://cdn-icons-png.flaticon.com/512/1532/1532556.png)
+![My Remote Image](https://cdn-icons-png.flaticon.com/512/919/919826.png)
 <!---
 OlfMSQL/OlfMSQL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
