@@ -6,7 +6,8 @@
 
 Programming Languages:
 
-![My Remote Image](https://isocpp.org/assets/images/cpp_logo.png | width=100)
+<img src="https://isocpp.org/assets/images/cpp_logo.png" width="200" height="400" />
+
 ![My Remote Image](https://cdn-icons-png.flaticon.com/512/1532/1532556.png)
 ![My Remote Image](https://cdn-icons-png.flaticon.com/512/919/919826.png)
 ![IMG](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png)
