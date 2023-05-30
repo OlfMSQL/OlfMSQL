@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on cpp Projects
 - 📫 How to reach me TS5 -> OLFSQL@teamspeak.com
 
-Programming Languages:
+Programming Languages I worked with:
 
 <img src="https://isocpp.org/assets/images/cpp_logo.png" width="200" height="250" />
+<img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="200" height="250" />
+<img src="[https://cdn-icons-png.flaticon.com/512/919/919826.png" width="200" height="250" />
+<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="200" height="250" />
 
-![My Remote Image](https://cdn-icons-png.flaticon.com/512/1532/1532556.png)
-![My Remote Image](https://cdn-icons-png.flaticon.com/512/919/919826.png)
-![IMG](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png)
 <!---
 OlfMSQL/OlfMSQL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
