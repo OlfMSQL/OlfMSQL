@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on cpp Projects
-- 📫 How to reach me: TS5 -> OLFSQL@teamspeak.com
+- 📫 How to reach me: Discord -> eclipse.241
 
 Programming Languages I worked with:
 
