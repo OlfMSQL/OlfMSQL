@@ -1,4 +1,6 @@
 <bold>Skills</bold>
+<center>Hello, my name is OLFMSQL. I am a programmer.</center>
 <hr></hr>
-![alt text]([http://url/to/img.png](https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png)https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png)
+C#
+C++
 HTML
