@@ -7,7 +7,7 @@
 </p>
 
 ## Skills
-<img width="20" src="https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png" /> C#
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /> C#
 
 ## How to reach me?
 Discord: eclipse.241
