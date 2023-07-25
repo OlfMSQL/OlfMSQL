@@ -1,5 +1,6 @@
+<h1><center>Hello, my name is OLFMSQL. I am a programmer.</center></h1>
+
 <bold>Skills</bold>
-<center>Hello, my name is OLFMSQL. I am a programmer.</center>
 <hr></hr>
 
 C#
