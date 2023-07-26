@@ -15,4 +15,4 @@
 
 <img width="20" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" /> JS
 ## How to reach me?
-Discord: eclipse.241
+<img width="20" src="https://www.svgrepo.com/show/353655/discord-icon.svg" /> Discord: eclipse.241
